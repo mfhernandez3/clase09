@@ -201,7 +201,7 @@ footer a:hover{
     width: auto;
     position: absolute;
     animation-name: pasando-por-el-canal;
-    animation-duration: 10s;
+    animation-duration: 20s;
     animation-iteration-count: infinite;
 }
 
